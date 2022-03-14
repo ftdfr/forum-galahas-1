@@ -3,7 +3,8 @@
     --primary: #ffffff;
     --secondary: rgba(255, 255, 255, 0.15);
     --three: rgba(255, 255, 255, 0.40);
-    --four: gray;;
+    --four: gray;
+    --five: rgba(255, 255, 255, 0.70);
 }
 
 body {
@@ -37,6 +38,21 @@ body {
     float: left;
 }
   
+.nav-right{
+    float: right;
+}
+
+.sep {
+    color: var(--primary);
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px 30px;
+}
+
+#title-menu {
+    font-weight: bold;
+}
+
 .menu-links {
     color: var(--primary);
     display: inline-block;
@@ -47,10 +63,11 @@ body {
 .menu-links:hover {
     background-color: var(--three);
     border-radius: 10px;
-    transition: background-color 0.4s ease-out;
 }
 
 .logo {
+    padding: 10px 10px;
+    display: inline-block;
     border-radius: 100px;
     height: 40px;
     width: 40px;
@@ -63,8 +80,6 @@ body {
     background-color: var(--primary);
     border-radius: 10px;
     color: var(--four);
-    height: 85vh;
-    
 }
 
 .wrapper{

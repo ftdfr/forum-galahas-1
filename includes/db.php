@@ -6,8 +6,5 @@
     define('DB_MESSAGES', 'messages');
 
     $conn = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_USERS);
-
-    
-
     $conn2 = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_MESSAGES);
 ?>
