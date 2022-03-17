@@ -8,9 +8,11 @@
     <nav>
         <ul class="nav__links">
             <li><a href="">News</a></li>
-            <li><a href="">Sujet</a></li>
+            <li><a href="">Shonen</a></li>
+            <li><a href="">Seinen</a></li>
+            <li><a href="">Shojo</a></li>
             <li><a href="">Contact</a></li>
         </ul>
     </nav>
-    <a><button id="connect-button">Connexion</button></a>
+    <a><button id="connect-button">Inscription</button></a>
 </header>
