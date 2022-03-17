@@ -70,22 +70,22 @@
             </div>
             <div class="subjects">
                 <div class="wrapper">
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet A</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet B</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet C</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet D</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet E</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet F</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet G</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet H</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet I</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet J</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet K</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet L</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet M</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet N</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet O</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet P</a></div> 
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">One Piece</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Naruto</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Black Clover</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Demon Slayer</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Bleach</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Hunter X Hunter</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Boruto</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Death Note</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">My Hero Academia</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Dragon Ball Z</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Dragon Ball S</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Jojo's bizarre Adventure</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Yu-Gi-Oh!</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Assassination Classroom</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Soul Eater</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Fate</a></div> 
                 </div>
             </div>
         </div>
