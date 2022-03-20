@@ -71,21 +71,21 @@
             <div class="subjects">
                 <div class="wrapper">
                     <div class="subjects-names"><a class="subject-link" href="naruto.php">Naruto</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">One Piece</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Dragon Ball</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Bleach</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">One Punch Man</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">My Hero Academia</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Death Note</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Demon Slayer</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Tokyo Revengers</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Jojo's Bizare Adventure</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Dr Stone</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Boruto</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Assassination Classroom</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Re: Zero</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Fate</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="naruto.php">Hunter X Hunter</a></div> 
+                    <div class="subjects-names"><a class="subject-link" href="onepiece.php">One Piece</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="dragonball.php">Dragon Ball</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="bleach.php">Bleach</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="onepunchman.php">One Punch Man</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="myheroacademia.php">My Hero Academia</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="deathnote.php">Death Note</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="demonslayer.php">Demon Slayer</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="tokyorevenger.php">Tokyo Revengers</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="jojosbizareadventure.php">Jojo's Bizare Adventure</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="drstone.php">Dr Stone</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="boruto.php">Boruto</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="assassinationclassroom.php">Assassination Classroom</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="rezero.php">Re: Zero</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="fate.php">Fate</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="hunterxhunter.php">Hunter X Hunter</a></div> 
                 </div>
             </div>
         </div>
