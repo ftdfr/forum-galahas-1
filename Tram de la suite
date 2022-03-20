@@ -1,0 +1,69 @@
+ok bon ce fichier n'est que textuel c pour qu'on ai une trace écrite ici de la suite
+Donc on va continuer ce site pour ça on va le faire par étapes:
+1
+
+on va régler tt les problèmes deja existant y compris la compatibilité logiciel
+parce que c assez con si on travail meme pas avec les mêmes outils
+
+2
+
+on va créé une page d'accueille contenant deux cases principales
+la première s'appellera Anims et la secondes Webtoons
+Pour le moment on vas plus se concentrer sur la première case et on fera la seconde en s'inspirant de la première
+
+2
+
+Donc dans la première on vas mettre un fond d'écran d'une image que j'aurais moi meme fait au préalable en attendant on va y mettre une image google
+sur ce fond d'écran on va mettre des images/texte qui ont une police d'écriture en rapport avec l'anim
+quand on clique sur cette écrito ça nous renvois sur une page vide
+mais toutes différentes (j'ai deja créé les fichier pour ça)
+
+3
+
+Ensuite on va s'occuper de l'ergonomie du site pour cela reste esthétic mais qu'il y ait encore de la place pour une pub sans que ça polue l'écran
+voirs meme les couleurs a la limite
+
+4
+
+une fois que c'est fait on va voir la nav bar
+Actus vas nous rediriger vers une page vierge aussi qu'on (ou je) remplirais ultérieurement
+Acceuil nous rebalance sur la page d'orrigine avec les deux grandes cases webtoons et anims
+Favoris: On va mettre en place un system de favoris pour que les clients puissent retrouver leurs dissuction favorites en un rien de temp
+pour faire ça l'onglet favoris va nous mettre une pop up avec les pages que l'utilisateur a mis en favoris
+Messages privés: je l'ai mis la parce que c aussi le principe de ce site mais a voir comment on s'organise ou fait je t'avoue que la dessus je ne sais pas
+
+5
+
+Faire une review general repasser en vue les bugs etc
+
+6
+
+Commencer a remplir la case actus avec un format propre a ce site genre un espace pour les mangaka un autre pour tel ou tel chose ou peut importe
+bref sectioner cette partie et mettre des texte inutil pour combler en att
+
+7
+
+La on rentre dans le coeur du sujet sur chaque page du bas de la racine (naruto.php ou bleach.php ou peut importe) on va mettre un systeme de message
+et en plus de ça il  va falloir que chaque utilisateur puisse répondre directement a un autre en public ou en privé
+Donc il va falloir que dans chaque truc.php on sectionne les debats en différentes catégrories genre perso favoris ou autre...
+Une fois que se sera bien fait et propre on aura bieeeeeeeen avancer se sera le debut d'un tres bon truc
+
+8
+
+Ensuite on va devoir mettre ça dans la partie webtoons aussi bon ce sera bcp de copier coller mais ça peut prendre du temp quand meme
+et a voir mais peut être rajouter une case pour les débats généraux
+
+?
+
+Rajouter un sistème d'amis
+
+?
+
+Faire les users profiles avec nom d'utilisateur gout et biographie
+
+
+
+
+Et moi je te dis que quand tout ça se sera fait on pourras ptn d'être fier parce des mec de 15 ans qui font ça j'en coco pas beaucoup
+Alors let's go faire ça et apres on sera des ptn de king 
+Go devenir les king devs                                (69 lignes parfait ;))
