@@ -70,10 +70,10 @@
             </div>
             <div class="subjects">
                 <div class="wrapper">
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet A</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet B</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet C</a></div>
-                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet D</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Naruto</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">One Piece</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Dragon Ball</a></div>
+                    <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Bleach</a></div>
                     <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet E</a></div>
                     <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet F</a></div>
                     <div class="subjects-names"><a class="subject-link" href="sujet-a.php">Sujet G</a></div>
